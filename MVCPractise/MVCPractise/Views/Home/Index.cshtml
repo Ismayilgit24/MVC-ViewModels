@@ -1,0 +1,59 @@
+﻿@using MVCPractise.Models
+@using MVCPractise.ViewModels
+
+@model HomeVM 
+
+
+    <style>
+        table, th, td{
+            border-collapse: collapse
+        }
+    </style>
+
+    @foreach (var product in Model.Products)
+    {
+        <table border="1" border-collapse :"collapse">
+            <thead>
+                <tr>
+                    <th>
+                        Image
+                    </th>
+                    <th>
+                        Name
+                    </th>
+                    <th>
+                        Description
+                    </th>
+                    <th>
+                        Price
+                    </th>
+                    <th>
+                        DiscountPrice
+                    </th>
+                    <th>
+                        Category
+                    </th>
+                    <th>
+                        Color
+                    </th>
+
+                </tr>
+               
+            </thead>
+
+            <tbody>
+                
+                   
+                        <tr>
+                    <td> <img src=" @product.Image" width =" 200" height="200"></td>
+                        <td>@product.Name</td>
+                        <td>@product.Description</td>
+                        <td>@product.Price</td>
+                        <td>@product.DiscountPrice</td>
+                        <td>@product.Category</td>
+                        <td>@product.Color</td>
+                        </tr>
+                
+           </tbody>
+       </table>
+    }

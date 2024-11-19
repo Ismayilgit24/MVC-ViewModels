@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodeAcademy\\MVCPractise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2FC3C3-D495-4EDA-90B7-410D57F1CF0A}|MVCPractise\\MVCPractise.csproj|d:\\codeacademy\\mvcpractise\\mvcpractise\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B2FC3C3-D495-4EDA-90B7-410D57F1CF0A}|MVCPractise\\MVCPractise.csproj|solutionrelative:mvcpractise\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2FC3C3-D495-4EDA-90B7-410D57F1CF0A}|MVCPractise\\MVCPractise.csproj|d:\\codeacademy\\mvcpractise\\mvcpractise\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2FC3C3-D495-4EDA-90B7-410D57F1CF0A}|MVCPractise\\MVCPractise.csproj|solutionrelative:mvcpractise\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2FC3C3-D495-4EDA-90B7-410D57F1CF0A}|MVCPractise\\MVCPractise.csproj|d:\\codeacademy\\mvcpractise\\mvcpractise\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2FC3C3-D495-4EDA-90B7-410D57F1CF0A}|MVCPractise\\MVCPractise.csproj|solutionrelative:mvcpractise\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2FC3C3-D495-4EDA-90B7-410D57F1CF0A}|MVCPractise\\MVCPractise.csproj|d:\\codeacademy\\mvcpractise\\mvcpractise\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2FC3C3-D495-4EDA-90B7-410D57F1CF0A}|MVCPractise\\MVCPractise.csproj|solutionrelative:mvcpractise\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2FC3C3-D495-4EDA-90B7-410D57F1CF0A}|MVCPractise\\MVCPractise.csproj|d:\\codeacademy\\mvcpractise\\mvcpractise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2FC3C3-D495-4EDA-90B7-410D57F1CF0A}|MVCPractise\\MVCPractise.csproj|solutionrelative:mvcpractise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2FC3C3-D495-4EDA-90B7-410D57F1CF0A}|MVCPractise\\MVCPractise.csproj|d:\\codeacademy\\mvcpractise\\mvcpractise\\mvcpractise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B2FC3C3-D495-4EDA-90B7-410D57F1CF0A}|MVCPractise\\MVCPractise.csproj|solutionrelative:mvcpractise\\mvcpractise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CodeAcademy\\MVCPractise\\MVCPractise\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCPractise\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\CodeAcademy\\MVCPractise\\MVCPractise\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCPractise\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T14:09:45.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "D:\\CodeAcademy\\MVCPractise\\MVCPractise\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "MVCPractise\\ViewModels\\HomeVM.cs",
+              "ToolTip": "D:\\CodeAcademy\\MVCPractise\\MVCPractise\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "MVCPractise\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:56:00.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\CodeAcademy\\MVCPractise\\MVCPractise\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MVCPractise\\Models\\Product.cs",
+              "ToolTip": "D:\\CodeAcademy\\MVCPractise\\MVCPractise\\Models\\Product.cs",
+              "RelativeToolTip": "MVCPractise\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:34:49.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\CodeAcademy\\MVCPractise\\MVCPractise\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCPractise\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\CodeAcademy\\MVCPractise\\MVCPractise\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCPractise\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB/HAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:34:10.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MVCPractise.csproj",
+              "DocumentMoniker": "D:\\CodeAcademy\\MVCPractise\\MVCPractise\\MVCPractise.csproj",
+              "RelativeDocumentMoniker": "MVCPractise\\MVCPractise.csproj",
+              "ToolTip": "D:\\CodeAcademy\\MVCPractise\\MVCPractise\\MVCPractise.csproj",
+              "RelativeToolTip": "MVCPractise\\MVCPractise.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T13:32:25.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CodeAcademy\\MVCPractise\\MVCPractise\\Program.cs",
+              "RelativeDocumentMoniker": "MVCPractise\\Program.cs",
+              "ToolTip": "D:\\CodeAcademy\\MVCPractise\\MVCPractise\\Program.cs",
+              "RelativeToolTip": "MVCPractise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:20:29.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
